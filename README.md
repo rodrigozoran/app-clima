@@ -7,3 +7,5 @@
 * Install the bootstrap in the folder project using: `npm i bootstrap`.
 
 * Create a openweathermap account and create your API Key. _This key must be used in the project_.
+
+* See this project in:  app-clima-nine-delta.vercel.app
